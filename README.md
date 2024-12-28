@@ -5,7 +5,7 @@
 
 
 
-- 📫 How to reach me **alexminj923@hmail.com**
+- 📫 How to reach me **alexminj923@gmail.com**
 
 - ⚡ Fun fact **Every day, I write more optimized code than the day before.😅**
 
